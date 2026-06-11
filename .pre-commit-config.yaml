@@ -1,5 +1,5 @@
 repos:
   - repo: https://github.com/Tasktop-Cloud-PVS/hackathon-kb-cli
-    rev: 6899ce8403343ee408ee43ba3b295d0d1b7a5ab1  # main as of 2026-06-10
+    rev: bafd89f3fc9a5f56eae6e0c820dbaf4213c90c15  # main as of 2026-06-11
     hooks:
       - id: basic-memory-validate
